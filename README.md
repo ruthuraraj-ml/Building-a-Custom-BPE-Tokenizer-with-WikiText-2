@@ -181,7 +181,7 @@ One of the most powerful features of BPE is its ability to represent unseen word
 These examples demonstrate how BPE generalizes beyond the original training corpus.
 
 <p align="center">
-  <img src="images/rare_words_decomposition.png" width="100%">
+  <img src="images/rare_words_decomposition.png" width="50%">
 </p>
 
 *Figure 4. Rare Word Decomposition.*
